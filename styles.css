@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+
+
+  body {
+    font-family: Verdana, Tahoma, sans-serif;
+
+#green_header {
+  background-color: green;
+  width: 200px;
+		height: 200px;
+		border: 2px solid black;
+		text-align: center;
+}
